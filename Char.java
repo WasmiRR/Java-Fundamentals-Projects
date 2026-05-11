@@ -1,6 +1,6 @@
 public class Char {
     public static void main(String[] args){
-        String firstChar = "Orhanımı";
+        String firstChar = "Kebabı";
         String secondChar = "Afiyetle";
         String thirdChar = "Yiyin";
         char FirstThings = firstChar.charAt(1);
