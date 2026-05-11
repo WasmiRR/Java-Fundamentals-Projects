@@ -3,7 +3,7 @@ public class Concatenation {
         String Name = "Orhan";
         String LastName= " Yılmaz";
         int Yaşı = 25;
-        int BebesininYaşı = 19;
-        System.out.println(Name +" " + Yaşı+ " " + BebesininYaşı+" " +LastName);
+        int OglununYaşı = 19;
+        System.out.println(Name +" " + Yaşı+ " " + OglununYaşı+" " +LastName);
     }
 }
