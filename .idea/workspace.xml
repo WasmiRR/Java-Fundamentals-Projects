@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2f8cece-aa98-49c7-ba0f-1f4577a18307" name="Changes" comment="" />
+    <list default="true" id="f2f8cece-aa98-49c7-ba0f-1f4577a18307" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/bank_project2/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_project2/SavingsAccountDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car_speed/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car_speed/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coffe_workshop/CafeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coffe_workshop/CoffeOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java-Fundamentals-Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java-Fundamentals-Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,12 +36,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CafeDemo.executor": "Run",
+    "Application.CarMain.executor": "Run",
+    "Application.SavingsAccountDemo.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/wasmirr/Documents/GitHub/Java-Fundamentals-Projects"
+    "last_opened_file_path": "/Users/wasmirr/Documents/GitHub/Java-Fundamentals-Projects",
+    "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
   <component name="SharedIndexes">
