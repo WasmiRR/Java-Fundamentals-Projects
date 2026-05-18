@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f8cece-aa98-49c7-ba0f-1f4577a18307" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bank_project2/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank_project2/SavingsAccountDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/car_speed/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/car_speed/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coffe_workshop/CafeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coffe_workshop/CoffeOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java-Fundamentals-Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java-Fundamentals-Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chess_Player/ChessPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chess_Player/TournamentDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +34,7 @@
     "Application.CafeDemo.executor": "Run",
     "Application.CarMain.executor": "Run",
     "Application.SavingsAccountDemo.executor": "Run",
+    "Application.TournamentDemo.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
