@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f8cece-aa98-49c7-ba0f-1f4577a18307" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/automotive/system/EngineType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/automotive/system/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/automotive/system/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/erasmus_gpa_analyzer/ErasmusAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_product/InventorySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_student_gpa/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_student_gpa/UniversitySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/enes/arrays/ArabaSatisRaporu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/enes/arrays/GradeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/enes/arrays/HazirKomutlar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/enes/arrays/MesaiHesabi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/enes/arrays/OtoparkKamerasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/enes/arrays/VipOtopark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/enes/arrays/reverseArray_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArabaSatisRaporu.executor": "Run",
     "Application.BankaDemo.executor": "Run",
     "Application.CafeDemo.executor": "Run",
     "Application.CarMain.executor": "Run",
@@ -42,13 +50,25 @@
     "Application.ErasmusBudget.executor": "Run",
     "Application.FlightBaggage.executor": "Run",
     "Application.Gallery.executor": "Run",
+    "Application.GradeManager.executor": "Run",
+    "Application.HazirKomutlar.executor": "Run",
+    "Application.InventorySystem.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MesaiHesabi.executor": "Run",
+    "Application.OtoparkKamerasi.executor": "Run",
     "Application.SavingsAccountDemo.executor": "Run",
     "Application.SpeedTest.executor": "Run",
     "Application.TournamentDemo.executor": "Run",
+    "Application.UniversitySystem.executor": "Run",
+    "Application.VipOtopark.executor": "Run",
     "Application.WorkAndTravel.executor": "Run",
+    "Application.reverseArray.executor": "Run",
+    "Application.reverseArray_2.executor": "Run",
+    "Application.reverseCars.executor": "Run",
+    "Application.shiftQueue.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -56,6 +76,82 @@
     "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.InventorySystem">
+    <configuration name="ArabaSatisRaporu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.enes.arrays.ArabaSatisRaporu" />
+      <module name="Java-Fundamentals-Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.enes.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.enes.arrays.GradeManager" />
+      <module name="Java-Fundamentals-Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.enes.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HazirKomutlar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.enes.arrays.HazirKomutlar" />
+      <module name="Java-Fundamentals-Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.enes.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventorySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_product.InventorySystem" />
+      <module name="Java-Fundamentals-Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays_product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniversitySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_student_gpa.UniversitySystem" />
+      <module name="Java-Fundamentals-Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays_student_gpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InventorySystem" />
+        <item itemvalue="Application.UniversitySystem" />
+        <item itemvalue="Application.GradeManager" />
+        <item itemvalue="Application.HazirKomutlar" />
+        <item itemvalue="Application.ArabaSatisRaporu" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
