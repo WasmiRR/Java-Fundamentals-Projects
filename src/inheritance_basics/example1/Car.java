@@ -1,4 +1,4 @@
-package inheritance_basics;
+package inheritance_basics.example1;
 
 
 public class Car extends Vehicle {

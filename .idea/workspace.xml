@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f8cece-aa98-49c7-ba0f-1f4577a18307" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/game_server/GameCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game_server/GameServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game_server/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/space_mission/CrewRocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/space_mission/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/space_mission/Rocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/space_mission/SpaceVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/Gamer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/MainGamer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/ProGamer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,82 +70,6 @@
     "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.space_mission.Main">
-    <configuration name="InventorySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays_product.InventorySystem" />
-      <module name="Java-Fundamentals-Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays_product.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="game_server.Main" />
-      <module name="Java-Fundamentals-Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="game_server.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UniversitySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays_student_gpa.UniversitySystem" />
-      <module name="Java-Fundamentals-Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays_student_gpa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="inheritance_basics.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance_basics.Main" />
-      <module name="Java-Fundamentals-Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritance_basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="space_mission.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="space_mission.Main" />
-      <module name="Java-Fundamentals-Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="space_mission.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.space_mission.Main" />
-        <item itemvalue="Application.inheritance_basics.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.InventorySystem" />
-        <item itemvalue="Application.UniversitySystem" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
