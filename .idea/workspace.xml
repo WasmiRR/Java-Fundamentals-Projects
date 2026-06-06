@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f8cece-aa98-49c7-ba0f-1f4577a18307" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/Gamer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/MainGamer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/ProGamer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/example3/MainCampus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/example3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/example3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/example3/Undergraduate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/example4/CrewRocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/example4/MissionControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/example4/Rocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/example4/SpaceVehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamentals-Projects/inheritance_basics/Gamer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamentals-Projects/inheritance_basics/MainGamer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamentals-Projects/inheritance_basics/ProGamer.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +54,8 @@
     "Application.HazirKomutlar.executor": "Run",
     "Application.InventorySystem.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MainCampus.executor": "Run",
+    "Application.MainGamer.executor": "Run",
     "Application.MesaiHesabi.executor": "Run",
     "Application.OtoparkKamerasi.executor": "Run",
     "Application.SavingsAccountDemo.executor": "Run",
