@@ -1,4 +1,4 @@
-package basics.interfacee.example1;
+package interface_basics.Area;
 
 public class Circle implements Measurable {
     private double radius;

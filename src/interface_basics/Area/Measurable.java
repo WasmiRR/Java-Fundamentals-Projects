@@ -1,4 +1,4 @@
-package basics.interfacee.example1;
+package interface_basics.Area;
 
 public interface Measurable {
 
