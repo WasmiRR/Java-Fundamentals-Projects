@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f8cece-aa98-49c7-ba0f-1f4577a18307" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/example3/MainCampus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/example3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/example3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/example3/Undergraduate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/example4/CrewRocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/example4/MissionControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/example4/Rocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance_basics/example4/SpaceVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/interfacee/example1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/interfacee/example1/InterfacePolyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/interfacee/example1/Measurable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/interfacee/example1/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamentals-Projects/inheritance_basics/Gamer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamentals-Projects/inheritance_basics/MainGamer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamentals-Projects/inheritance_basics/ProGamer.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +45,13 @@
     "Application.Gallery.executor": "Run",
     "Application.GradeManager.executor": "Run",
     "Application.HazirKomutlar.executor": "Run",
+    "Application.InterfacePolyDemo.executor": "Run",
     "Application.InventorySystem.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MainCampus.executor": "Run",
     "Application.MainGamer.executor": "Run",
     "Application.MesaiHesabi.executor": "Run",
+    "Application.MissionControl.executor": "Run",
     "Application.OtoparkKamerasi.executor": "Run",
     "Application.SavingsAccountDemo.executor": "Run",
     "Application.SpeedTest.executor": "Run",
