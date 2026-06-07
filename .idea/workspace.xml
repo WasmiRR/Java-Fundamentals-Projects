@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f8cece-aa98-49c7-ba0f-1f4577a18307" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/interface_basics/Example3/Attackk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_basics/Example3/BattleSimulator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_basics/Example3/EliteWarrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_basics/Example3/Trainable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_basics/WarGame/Archer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_basics/WarGame/Attackable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_basics/WarGame/Battlefield.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_basics/WarGame/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interface_basics/car_simulation/Drivable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interface_basics/car_simulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interface_basics/car_simulation/SeatAteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interface_basics/car_simulation/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamentals-Projects/basics/interfacee/example1/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamentals-Projects/basics/interfacee/example1/InterfacePolyDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamentals-Projects/basics/interfacee/example1/Measurable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamentals-Projects/basics/interfacee/example1/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/interfacee/example1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_basics/Area/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/interfacee/example1/InterfacePolyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_basics/Area/InterfacePolyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/interfacee/example1/Measurable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_basics/Area/Measurable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/interfacee/example1/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_basics/Area/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,52 +34,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArabaSatisRaporu.executor": "Run",
-    "Application.BankaDemo.executor": "Run",
-    "Application.BattleSimulator.executor": "Run",
-    "Application.BattleSimulator1.executor": "Run",
-    "Application.Battlefield.executor": "Run",
-    "Application.CafeDemo.executor": "Run",
-    "Application.CarMain.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.ErasmusAnalyzer.executor": "Run",
-    "Application.ErasmusBudget.executor": "Run",
-    "Application.FlightBaggage.executor": "Run",
-    "Application.Gallery.executor": "Run",
-    "Application.GradeManager.executor": "Run",
-    "Application.HazirKomutlar.executor": "Run",
-    "Application.InterfacePolyDemo.executor": "Run",
-    "Application.InventorySystem.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MainCampus.executor": "Run",
-    "Application.MainGamer.executor": "Run",
-    "Application.MesaiHesabi.executor": "Run",
-    "Application.MissionControl.executor": "Run",
-    "Application.OtoparkKamerasi.executor": "Run",
-    "Application.SavingsAccountDemo.executor": "Run",
-    "Application.SpeedTest.executor": "Run",
-    "Application.TournamentDemo.executor": "Run",
-    "Application.UniversitySystem.executor": "Run",
-    "Application.VipOtopark.executor": "Run",
-    "Application.WorkAndTravel.executor": "Run",
-    "Application.inheritance_basics.Main.executor": "Run",
-    "Application.reverseArray.executor": "Run",
-    "Application.reverseArray_2.executor": "Run",
-    "Application.reverseCars.executor": "Run",
-    "Application.shiftQueue.executor": "Run",
-    "Application.space_mission.Main.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/wasmirr/Documents/GitHub/Java-Fundamentals-Projects",
-    "settings.editor.selected.configurable": "copyright"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArabaSatisRaporu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankaDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BattleSimulator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BattleSimulator1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Battlefield.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CafeDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ErasmusAnalyzer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ErasmusBudget.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlightBaggage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Gallery.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GradeManager.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HazirKomutlar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterfacePolyDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InventorySystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainCampus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainGamer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MesaiHesabi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissionControl.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OtoparkKamerasi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SavingsAccountDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpeedTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TournamentDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UniversitySystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VipOtopark.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WorkAndTravel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.inheritance_basics.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseArray_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseCars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.shiftQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.space_mission.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/wasmirr/Documents/GitHub/Java-Fundamentals-Projects&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
